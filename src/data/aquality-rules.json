@@ -1,0 +1,183 @@
+[
+  {
+    "number": 1,
+    "title": "Lead by example",
+    "description": "It is forbidden for an Aqualitor, someone familiar with The Rules, to knowingly assist another paddler to breach them... unless it's a matter of safety. Safety always trumps The Rules, whether you're a barnacle or a frother."
+  },
+  {
+    "number": 2,
+    "title": "The Ocean is Boss",
+    "description": "No matter how good you think you are, the ocean is better. Anyone who says otherwise will soon be humbled by a bombie. Respect must be paid to all waters - from nuclear conditions to duck farts."
+  },
+  {
+    "number": 3,
+    "title": "It's all about the craft",
+    "description": "It is, absolutely, without question, unequivocally, about your vessel - be it surfski, OC, va'a, or dragon boat. Anyone who says otherwise is obviously a pond paddler."
+  },
+  {
+    "number": 4,
+    "title": "Harden The Splash Up",
+    "description": "Free your mind and your technique will follow. Your mind is your worst enemy in technical conditions. Do all your thinking before you leave the beach. Once you're through the break, wrap yourself in the sensations - the smell of salt, the sound of runners, the feeling of flight as your craft links waves."
+  },
+  {
+    "number": 5,
+    "title": "Safety First, Glory Second",
+    "description": "Unlike cycling's Rule #5 about hardening up, our ultimate rule is safety. PFDs and leashes are not optional. Your float plan is sacred. You can't paddle if you're dead, and rescue beers are expensive."
+  },
+  {
+    "number": 6,
+    "title": "Equipment Respect is Mandatory",
+    "description": "Your vessel must be maintained with reverence. Your rudder cables shall be properly tensioned, your bailer clear, your venturi clean. A loose cable slapping inside your hull brings shame upon your ancestors."
+  },
+  {
+    "number": 7,
+    "title": "Remount Protocol",
+    "description": "A clean remount is the mark of a true Aqualitor. Side saddle or cowboy, your technique must be swift and graceful. Taking more than three seconds in flat water marks you as a kook. Practice until your remounts are smoother than your excuses."
+  },
+  {
+    "number": 8,
+    "title": "If you are out paddling in manky conditions, it means you are a badass",
+    "description": "Period. Flat water paddling is a luxury reserved for Sunday arvo coffee runs. Those who paddle in foul weather – be it nuclear, washing machine, or liquid himalayas – are members of a special club who, upon checking multiple weather apps and seeing carnage predicted, allow a wry smile to spread across their face."
+  },
+  {
+    "number": 9,
+    "title": "Beta Spray Protocol",
+    "description": "Unsolicited technique advice shall only be given when:\n• The recipient is about to die\n• They're using their paddle backwards\n• They've specifically begged for help\n• They're a close friend who won't punch you"
+  },
+  {
+    "number": 10,
+    "title": "The correct number of craft to own is n+1",
+    "description": "While the minimum number one should own is two (stable and tippy), the correct number is n+1, where n is the number currently owned. This equation may also be re-written as s-1, where s is the number of skis owned that would result in separation from your partner. Storage location hierarchy must be observed."
+  },
+  {
+    "number": 11,
+    "title": "Weather App Obsession is Sacred",
+    "description": "The ritual of checking multiple weather apps is mandatory. However, trusting any single forecast completely marks you as a novice. True masters know:",
+    "list": [
+      "Wind apps lie",
+      "Swell apps deceive",
+      "The best conditions come when you're at work",
+      "If three apps agree, they're all wrong"
+    ]
+  },
+  {
+    "number": 12,
+    "title": "The Bootie Beer Ceremony",
+    "description": "Swimming mandates the sacred consumption of the Bootie Beer. Additionally:",
+    "list": [
+      "A rescue beer must be provided to your savior",
+      "The incident must be recounted at the post-paddle coffee",
+      "Each retelling may grow slightly in wave height",
+      "Photographic evidence of the swim may only be shared with consent"
+    ]
+  },
+  {
+    "number": 13,
+    "title": "Downwind Etiquette is Absolute",
+    "description": "When catching runners:",
+    "list": [
+      "The paddler on the wave has right of way",
+      "Wave hogging shall result in paddling purgatory",
+      "Linking waves earns respect",
+      "One Lipp is worth a thousand paddle strokes",
+      "Wallowing shall not be mocked (publicly)"
+    ]
+  },
+  {
+    "number": 14,
+    "title": "Know Your Conditions",
+    "description": "Condition descriptions shall be accurate:",
+    "list": [
+      "Nuclear = legitimately huge",
+      "Washing Machine = confused seas from multiple directions",
+      "Victory at Sea = survival conditions",
+      "Duck Farts = flat shame",
+      "Glass = time to practice technique"
+    ]
+  },
+  {
+    "number": 15,
+    "title": "Global Brotherhood/Sisterhood Protocol",
+    "description": "Greet fellow paddlers appropriately by region:",
+    "list": [
+      "'Aloha' in the Pacific",
+      "'Yebo' in South Africa",
+      "'G'day' in Australia/NZ",
+      "'Bru/Brah/Bruh' as locally appropriate",
+      "When in doubt, a knowing nod will suffice"
+    ]
+  },
+  {
+    "number": 16,
+    "title": "Coffee Protocol is Sacred",
+    "description": "Post-paddle coffee stops are mandatory. Discussion topics shall follow strict hierarchy:",
+    "list": [
+      "Wave height analysis (increasing with each retelling)",
+      "Wind speed debate (minimum three opinions)",
+      "Equipment comparisons (subtle bragging permitted)",
+      "Next paddle planning (while still soaking wet)",
+      "Beta spray (only after second coffee)"
+    ]
+  },
+  {
+    "number": 17,
+    "title": "Technical Mastery Must Be Earned",
+    "description": "Your technique should be:",
+    "list": [
+      "Catch as silent as a platypus diving",
+      "Exit clean enough to not disturb sleeping seabirds",
+      "Recovery smooth enough to shame silk",
+      "Power phase strong enough to impress barnacles"
+    ],
+    "note": "If your catch sounds like you're fighting the ocean, consider lawn bowls."
+  },
+  {
+    "number": 18,
+    "title": "The Shuttle Dance",
+    "description": "The ritual of car shuffling for a downwinder must be performed with military precision:",
+    "list": [
+      "Keys must never be forgotten",
+      "Shuttle timing must be exact",
+      "'One more run' calculations must include retrieval time",
+      "All participants must return to correct vehicles"
+    ],
+    "note": "Failure results in the Walk of Shame"
+  },
+  {
+    "number": 19,
+    "title": "Conditions Classification Protocol",
+    "description": "Conditions shall be described precisely:",
+    "list": [
+      "'Technical' means confused and scary",
+      "'Chunky Monkey' means messy but manageable",
+      "'Puckery' means you should have brought the stable ski",
+      "'Growler' means big enough to get respect",
+      "'Class Fun' means perfect for everyone"
+    ]
+  },
+  {
+    "number": 21,
+    "title": "Wave Priority Hierarchy",
+    "description": "When encountering waves:",
+    "list": [
+      "Runners must be respected and not wasted",
+      "Linking waves is an art form worthy of respect",
+      "A good hole must not be squandered",
+      "Wallowing is acceptable only if no one's watching",
+      "One PHAT Lipp (2 Lipps) shall be celebrated with appropriate reverence"
+    ]
+  },
+  {
+    "number": 22,
+    "title": "Multi-craft Respect Protocol",
+    "description": "All paddle craft shall be respected:",
+    "list": [
+      "Surfski (SS1, SS2, SS3)",
+      "Outrigger (OC1 through OC6)",
+      "Va'a (V1, V2...)",
+      "Dragon Boats",
+      "Even SUPs (though we question their life choices)"
+    ],
+    "note": "Each has its place in the grand scheme of water worthiness"
+  }
+]
