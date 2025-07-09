@@ -156,6 +156,18 @@
     ]
   },
   {
+    "number": 20,
+    "title": "Documentation Requirements",
+    "description": "Session recording protocol:",
+    "list": [
+      "GPS tracks must be shared (after appropriate editing)",
+      "Photos must show good wave height perspective",
+      "Strava kudos must be distributed equally",
+      "Epic conditions must be photographed",
+      "Bad conditions need no evidence"
+    ]
+  },
+  {
     "number": 21,
     "title": "Wave Priority Hierarchy",
     "description": "When encountering waves:",
@@ -179,5 +191,998 @@
       "Even SUPs (though we question their life choices)"
     ],
     "note": "Each has its place in the grand scheme of water worthiness"
+  },
+  {
+    "number": 23,
+    "title": "The Sacred Vessel Care",
+    "description": "Your craft demands respect:",
+    "list": [
+      "Hull must be maintained pristine",
+      "Rudder cables tensioned to perfection",
+      "Bailer/venturi kept clear",
+      "String lines clean",
+      "No excess resin shall be tolerated"
+    ],
+    "note": "Carbon fiber maintenance is meditation"
+  },
+  {
+    "number": 24,
+    "title": "Fetch Evaluation Protocol",
+    "description": "Wind fetch analysis shall include:",
+    "list": [
+      "Multiple weather models",
+      "Local knowledge",
+      "Bird behavior",
+      "Cloud formations",
+      "That one local paddler who's always right",
+      "Your own bitter experience"
+    ]
+  },
+  {
+    "number": 25,
+    "title": "The Brotherhood/Sisterhood of the Swim",
+    "description": "When witnessing another's swimming ceremony:",
+    "list": [
+      "Assist first",
+      "Mock later",
+      "Document discretely",
+      "Share rescue beer",
+      "Embellish story appropriately at coffee"
+    ],
+    "note": "Remember: Today them, tomorrow you"
+  },
+  {
+    "number": 26,
+    "title": "Classification of Paddler Types",
+    "description": "Know your position in the natural order:",
+    "list": [
+      "Frother (fully amped paddling enthusiast)",
+      "Wind Whisperer (masters of weather app interpretation)",
+      "Wave Magnet (always finds the best runs)",
+      "Car Park Captain (expert forecaster, rarely paddles)",
+      "Coffee Shop Champion (better at analysis than paddling)"
+    ],
+    "note": "Respect each, for you have been or will be all of these"
+  },
+  {
+    "number": 27,
+    "title": "The Sacred Terminology",
+    "description": "Proper paddling terms shall be used:",
+    "list": [
+      "'Huli' for dignified exits from craft",
+      "'Pearl' for unplanned nose diving",
+      "'Brace' for desperate stability attempts",
+      "'Carnage' for spectacular failures",
+      "'Church' for perfect conditions"
+    ],
+    "note": "Using incorrect terminology marks you as a kook"
+  },
+  {
+    "number": 28,
+    "title": "Local Knowledge Protocol",
+    "description": "When paddling new waters:",
+    "list": [
+      "Seek local knowledge",
+      "Respect local customs",
+      "Learn local terminology",
+      "Buy local paddlers coffee",
+      "Never claim to know better than locals"
+    ],
+    "note": "Exception: Unless you're Oscar Chalupsky"
+  },
+  {
+    "number": 29,
+    "title": "The Multiple Ski Theorem",
+    "description": "Your quiver shall include:",
+    "list": [
+      "A stable ski for manky days",
+      "A tippy ski for showing off",
+      "A middle ski you actually use",
+      "A classic ski you'll never sell",
+      "A new ski you're hiding from your partner"
+    ],
+    "note": "All must be justified as 'essential safety equipment'"
+  },
+  {
+    "number": 30,
+    "title": "Weather-Based Excuses",
+    "description": "Acceptable reasons for not paddling: Lightning within 10km, Shark feeding frenzy, Actual hurricanes. Unacceptable reasons:",
+    "list": [
+      "Light rain",
+      "Mild wind",
+      "Minor craft warnings",
+      "Social obligations"
+    ]
+  },
+  {
+    "number": 31,
+    "title": "The Technical Mastery Hierarchy",
+    "description": "Perfect your:",
+    "list": [
+      "Catch (silent as moonlight on water)",
+      "Power Phase (strong as a whale's tail)",
+      "Exit (clean as a dolphin's leap)",
+      "Recovery (smooth as a pelican's glide)",
+      "Remount (swift as a seal's dive)"
+    ],
+    "note": "And still accept you'll swim occasionally"
+  },
+  {
+    "number": 32,
+    "title": "Ghost Workshop Protocol",
+    "description": "Your car shall maintain permanent readiness:",
+    "list": [
+      "Roof racks correctly tensioned",
+      "Multiple sets of straps",
+      "Spare paddle hidden somewhere",
+      "Emergency kit current",
+      "Coffee money stashed"
+    ],
+    "note": "For the wind waits for no one"
+  },
+  {
+    "number": 33,
+    "title": "The Sacred Measurements",
+    "description": "Distance shall be measured in:",
+    "list": [
+      "Nautical miles (to confuse land-dwellers)",
+      "Lipps (30-second wave rides)",
+      "Coffee stops",
+      "Swims",
+      "Epic moments"
+    ],
+    "note": "Never in kilometers unless explaining to non-paddlers"
+  },
+  {
+    "number": 34,
+    "title": "Broaching Management Protocol",
+    "description": "When broaching occurs:",
+    "list": [
+      "Maintain dignity",
+      "Pretend it was intentional",
+      "Perform recovery with style",
+      "Act like you're testing your rudder",
+      "Avoid eye contact with witnesses"
+    ],
+    "note": "Document only if spectacular enough for social media"
+  },
+  {
+    "number": 35,
+    "title": "The Wind Reading Ritual",
+    "description": "True wind reading involves:",
+    "list": [
+      "Checking multiple apps",
+      "Observing water texture",
+      "Watching bird flight patterns",
+      "Consulting local oracles",
+      "Licking your finger and holding it up"
+    ],
+    "note": "The last one is just for show, but do it anyway"
+  },
+  {
+    "number": 36,
+    "title": "The Post-Swim Protocol",
+    "description": "After an unplanned water entry:",
+    "list": [
+      "Remount with practiced nonchalance",
+      "Adjust PFD as if checking fit",
+      "Scan horizon pretending to check conditions",
+      "Make casual comment about water temperature",
+      "Immediately plan more challenging run to restore dignity"
+    ]
+  },
+  {
+    "number": 37,
+    "title": "Wash Riding Ethics",
+    "description": "When drafting:",
+    "list": [
+      "Request permission or await invitation",
+      "Take your turn at the front",
+      "Never be labeled WRS (Wash Riding Scum)",
+      "Share the work in a pack",
+      "Accept that karma applies to wash riding"
+    ],
+    "note": "Exception: During races, all ethics become flexible"
+  },
+  {
+    "number": 38,
+    "title": "The Sacred Vessel Storage",
+    "description": "Storage hierarchy shall be observed:",
+    "list": [
+      "Temperature-controlled garage (optimal)",
+      "Spare bedroom (relationship permitting)",
+      "Living room wall mount (singles only)",
+      "Under house (with adequate protection)",
+      "Never where neighbors can judge your addiction"
+    ]
+  },
+  {
+    "number": 39,
+    "title": "Multi-cultural Respect Protocol",
+    "description": "Honor all paddling traditions:",
+    "list": [
+      "Hawaiian: 'Aloha' spirit always",
+      "South African: 'Lekker' conditions appreciation",
+      "Australian: 'Yeah, Nah' weather assessment",
+      "Kiwi: Understated excellence",
+      "Universal: Post-paddle coffee requirement"
+    ]
+  },
+  {
+    "number": 40,
+    "title": "The Technical Conditions Assessment",
+    "description": "Proper description of water state:",
+    "list": [
+      "Glass: Perfect for technique training",
+      "Bumps: Acceptable for beginners",
+      "Technical: Confused and challenging",
+      "Nuclear: Call in sick to work",
+      "Victory at Sea: Notify next of kin"
+    ]
+  },
+  {
+    "number": 41,
+    "title": "The Barnacle Respect Clause",
+    "description": "Honor the Barnacles (senior paddlers) for:",
+    "list": [
+      "They have seen more conditions than your weather apps",
+      "Their war stories are probably true",
+      "Their technique compensates for deteriorating bodies",
+      "They remember when skis were actually made of wood",
+      "They've forgotten more about paddling than you know"
+    ]
+  },
+  {
+    "number": 42,
+    "title": "The Sacred Coffee Vessel",
+    "description": "Post-paddle coffee protocols:",
+    "list": [
+      "Must be strong enough to float a paddle",
+      "Served in proper ceramic (no plastic)",
+      "Accompanies mandatory condition analysis",
+      "Enables elaborate tale-telling",
+      "Provides excuse for extending paddle socializing"
+    ],
+    "note": "Single-origin beans preferred after epic conditions"
+  },
+  {
+    "number": 43,
+    "title": "The Fish Story Protocol",
+    "description": "When recounting wildlife encounters:",
+    "list": [
+      "Dolphins may become orcas",
+      "Seals become great whites",
+      "Seagulls become albatross",
+      "Floating plastic bags become Portuguese Man-o-War"
+    ],
+    "note": "All stories must end with 'but I stayed calm and kept paddling'"
+  },
+  {
+    "number": 44,
+    "title": "The Rudder Commandments",
+    "description": "Your rudder shall be:",
+    "list": [
+      "Properly tensioned (no slack)",
+      "Correctly sized for conditions",
+      "Maintained with religious devotion",
+      "Changed according to conditions"
+    ],
+    "note": "The sacred saying: 'Tight cables, clean lines, swift rudder, good times'"
+  },
+  {
+    "number": 45,
+    "title": "The Vessel Selection Theorem",
+    "description": "Choose your craft according to:",
+    "list": [
+      "Conditions (be honest)",
+      "Skill level (be more honest)",
+      "Intended use (be really honest)",
+      "Storage space (be practical)",
+      "Partner's tolerance (be very careful)"
+    ],
+    "note": "Then buy one size more advanced anyway"
+  },
+  {
+    "number": 46,
+    "title": "The \"Yeah, Nah\" Principle",
+    "description": "When discussing conditions:",
+    "list": [
+      "Yeah, Nah = definitely not paddling",
+      "Nah, Yeah = probably paddling",
+      "Yeah, Nah, Yeah = already on the water",
+      "Nah = nuclear conditions, going anyway",
+      "Yeah = conditions are pumping but playing it cool"
+    ]
+  },
+  {
+    "number": 47,
+    "title": "The Downwind Dance Protocol",
+    "description": "The sacred sequence shall be:",
+    "list": [
+      "1. Check forecast obsessively",
+      "2. Message group chat",
+      "3. Coordinate shuttle",
+      "4. Forget key piece of gear",
+      "5. Return home for forgotten gear",
+      "6. Arrive at launch to find conditions changed",
+      "7. Paddle anyway"
+    ]
+  },
+  {
+    "number": 48,
+    "title": "The Brotherhood/Sisterhood of the Tube",
+    "description": "When encountering fellow paddlers:",
+    "list": [
+      "Share beta if asked",
+      "Offer assistance if needed",
+      "Exchange knowing nods",
+      "Respect territories",
+      "Share waves when possible"
+    ],
+    "note": "Unless racing - then all bets are off"
+  },
+  {
+    "number": 49,
+    "title": "The Technical Equipment Obsession",
+    "description": "Acceptable topics for endless discussion:",
+    "list": [
+      "Rocker profiles",
+      "Hull design theory",
+      "Carbon layup techniques",
+      "Rudder configurations",
+      "Bucket ergonomics"
+    ],
+    "note": "All discussed while fondling new gear at local shop"
+  },
+  {
+    "number": 50,
+    "title": "The Seasonal Adaptation Protocol",
+    "description": "Winter paddlers shall:",
+    "list": [
+      "Never admit to being cold",
+      "Refer to hypothermia as 'refreshing'",
+      "Wear shorts in inappropriate conditions",
+      "Claim water's warmer than air",
+      "Maintain superior attitude to summer-only paddlers"
+    ]
+  },
+  {
+    "number": 51,
+    "title": "The Wind App Hierarchy",
+    "description": "Weather app consultation protocol:",
+    "list": [
+      "Minimum three apps required",
+      "Local wind guru must be consulted",
+      "Webcams must be checked",
+      "Flagpoles must be observed",
+      "Weather rocks must be considered"
+    ],
+    "note": "If all sources agree, be very suspicious"
+  },
+  {
+    "number": 52,
+    "title": "The Sacred Shuttle Timing",
+    "description": "For the perfect downwind run:",
+    "list": [
+      "Add 30 minutes to estimated time",
+      "Add another 30 for car shuffling",
+      "Add 15 for forgotten gear",
+      "Add 60 for 'one more run'",
+      "Multiply final time by 1.5"
+    ],
+    "note": "Then miss it all anyway because conditions are pumping"
+  },
+  {
+    "number": 53,
+    "title": "The Washing Machine Survival Protocol",
+    "description": "In confused seas:",
+    "list": [
+      "Maintain connection with craft",
+      "Pretend you meant to go there",
+      "Style out any inadvertent moves",
+      "Call it 'technical training'",
+      "Claim you're working on rough water skills"
+    ],
+    "note": "Never admit to being scared"
+  },
+  {
+    "number": 54,
+    "title": "The Kook Prevention Protocol",
+    "description": "Avoid kook classification by:",
+    "list": [
+      "Never claiming local status unless earned",
+      "Respecting the hierarchy of waves",
+      "Learning local terminology",
+      "Buying appropriate rescue beers",
+      "Maintaining appropriate stoke levels"
+    ],
+    "note": "Remember: We were all kooks once"
+  },
+  {
+    "number": 55,
+    "title": "The Ocean Giveth Principle",
+    "description": "Accept that:",
+    "list": [
+      "Some days you're the wave",
+      "Some days you're the swimmer",
+      "Some days you're the rescue",
+      "Some days you're the story",
+      "Every day you're the student"
+    ],
+    "note": "The ocean remains undefeated"
+  },
+  {
+    "number": 56,
+    "title": "The Surfski Specification Debate",
+    "description": "Endless discussion shall be had regarding:",
+    "list": [
+      "Primary vs secondary stability",
+      "Round vs flat hull sections",
+      "High vs low volume",
+      "Long vs short waterline",
+      "Venturi size and placement"
+    ],
+    "note": "All while secretly knowing it's mostly about the paddler"
+  },
+  {
+    "number": 57,
+    "title": "The Universal Paddler's Paradox",
+    "description": "Acknowledge these eternal truths:",
+    "list": [
+      "Perfect conditions occur during work hours",
+      "Gear breaks before major events",
+      "Best runs happen without cameras",
+      "Epic stories lack witnesses",
+      "Found footage is always unflattering"
+    ]
+  },
+  {
+    "number": 58,
+    "title": "The Sacred Time Measurements",
+    "description": "Paddle time shall be measured in:",
+    "list": [
+      "Lipps (wave riding units)",
+      "Coffee intervals",
+      "Tide cycles",
+      "Weather windows",
+      "'One more run' promises"
+    ],
+    "note": "Never in actual clock time"
+  },
+  {
+    "number": 59,
+    "title": "The Bomber Protocol",
+    "description": "When encountering a bombora:",
+    "list": [
+      "Respect its power",
+      "Observe its behavior",
+      "Share local knowledge",
+      "Never underestimate",
+      "Always have an escape route"
+    ],
+    "note": "Those who ignore bombers become cautionary tales"
+  },
+  {
+    "number": 60,
+    "title": "The Technical Term Translation",
+    "description": "When explaining to non-paddlers:",
+    "list": [
+      "'Technical conditions' = scary",
+      "'Bit bumpy' = terrifying",
+      "'Good fun' = nearly died",
+      "'Character building' = survived somehow",
+      "'Classic day' = epic carnage"
+    ],
+    "note": "Keep it vague to avoid causing concern"
+  },
+  {
+    "number": 61,
+    "title": "The Equipment Care Covenant",
+    "description": "Your craft deserves:",
+    "list": [
+      "Clean rinsing after each session",
+      "Proper UV protection",
+      "Regular rudder maintenance",
+      "Clean foot well and venturi",
+      "Dignified transportation"
+    ],
+    "note": "Treat your vessel better than your car"
+  },
+  {
+    "number": 62,
+    "title": "The Paddling Wardrobe Decree",
+    "description": "Appropriate attire includes:",
+    "list": [
+      "PFD worn with pride",
+      "Rashie tan lines maintained sharp",
+      "Technical gear matching craft",
+      "Kit appropriate for conditions",
+      "Post-paddle coffee outfit considered"
+    ],
+    "note": "Board shorts in winter mark you as either hero or fool"
+  },
+  {
+    "number": 63,
+    "title": "The Huli Management Strategy",
+    "description": "When performing unplanned exits:",
+    "list": [
+      "Execute remount with grace",
+      "Maintain facial expression of mild interest",
+      "Perform equipment check as cover",
+      "Adjust PFD unnecessarily",
+      "Scan horizon thoughtfully"
+    ],
+    "note": "As if entire sequence was intentional"
+  },
+  {
+    "number": 64,
+    "title": "The Beta Distribution Protocol",
+    "description": "Knowledge sharing hierarchy:",
+    "list": [
+      "Safety information: always",
+      "Local hazards: definitely",
+      "Secret spots: selectively",
+      "Perfect runs: carefully",
+      "Epic fail stories: enthusiastically"
+    ],
+    "note": "But never spray beta without invitation"
+  },
+  {
+    "number": 65,
+    "title": "The Wave Priority Hierarchy",
+    "description": "When encountering runners:",
+    "list": [
+      "First on wave has right of way",
+      "No dropping in",
+      "No wave hogging",
+      "Share the good lines",
+      "Respect the locals"
+    ],
+    "note": "Violation results in cosmic paddle karma"
+  },
+  {
+    "number": 66,
+    "title": "The Sacred Distance Rule",
+    "description": "Distance claims shall be:",
+    "list": [
+      "Measured in nautical miles",
+      "Verified by GPS",
+      "Accompanied by condition report",
+      "Enhanced by coffee stop inclusion",
+      "Never diminished by swim breaks"
+    ],
+    "note": "Unless racing, then kilometers are permitted"
+  },
+  {
+    "number": 67,
+    "title": "The Barnacle History Protocol",
+    "description": "When a Barnacle speaks of past paddles:",
+    "list": [
+      "Listen with respect",
+      "Accept all wave heights as stated",
+      "Acknowledge equipment evolution",
+      "Learn from their experiences",
+      "Honor their battle scars"
+    ],
+    "note": "For they paddled before GPS could prove otherwise"
+  },
+  {
+    "number": 68,
+    "title": "The Multi-craft Mastery",
+    "description": "True Aqualiti respect all craft:",
+    "list": [
+      "Surfski for speed",
+      "OC for grace",
+      "Va'a for tradition",
+      "Dragon Boat for power",
+      "SUP for... trying their best"
+    ],
+    "note": "Each has its place in the grand scheme"
+  },
+  {
+    "number": 69,
+    "title": "The Liquid Himalaya Response",
+    "description": "In serious conditions:",
+    "list": [
+      "Maintain dignified excitement",
+      "Prepare quietly",
+      "Launch confidently",
+      "Paddle competently",
+      "Celebrate subtly"
+    ],
+    "note": "Let others speak of your accomplishments"
+  },
+  {
+    "number": 70,
+    "title": "The Coffee Shop Championship",
+    "description": "Post-paddle analysis requires:",
+    "list": [
+      "Detailed wave height discussion",
+      "Wind speed debate",
+      "GPS track comparison",
+      "Multiple weather app consultation",
+      "Strategic planning for next session"
+    ],
+    "note": "All while dripping on coffee shop floor"
+  },
+  {
+    "number": 71,
+    "title": "The Technical Evolution Mandate",
+    "description": "Progress shall be measured by:",
+    "list": [
+      "Catch refinement",
+      "Stroke efficiency",
+      "Brace effectiveness",
+      "Remount speed",
+      "Swim reduction"
+    ],
+    "note": "But never claim perfection, for the ocean hears all"
+  },
+  {
+    "number": 72,
+    "title": "The Frother's Code",
+    "description": "Appropriate enthusiasm levels:",
+    "list": [
+      "Subtle excitement for normal conditions",
+      "Measured stoke for good conditions",
+      "Controlled froth for epic conditions",
+      "Full froth for nuclear conditions",
+      "Zen-like calm when actually terrified"
+    ]
+  },
+  {
+    "number": 73,
+    "title": "The Wind Whisperer's Way",
+    "description": "True wind reading involves:",
+    "list": [
+      "Flag observation",
+      "Water texture analysis",
+      "Cloud pattern interpretation",
+      "Bird behavior study",
+      "Local legend consultation"
+    ],
+    "note": "Weather apps are merely suggestions"
+  },
+  {
+    "number": 74,
+    "title": "The Paddle Selection Sacrament",
+    "description": "Your paddle shall be:",
+    "list": [
+      "Correctly sized",
+      "Properly feathered (or not)",
+      "Regularly maintained",
+      "Secretly named",
+      "Treated with reverence"
+    ],
+    "note": "For it is the extension of your will"
+  },
+  {
+    "number": 75,
+    "title": "The Cultural Integration Protocol",
+    "description": "Honor all paddling traditions:",
+    "list": [
+      "Hawaiian 'Aloha' spirit",
+      "South African 'Lekker' vibe",
+      "Aussie 'Yeah, Nah' wisdom",
+      "Kiwi understated excellence",
+      "Universal coffee requirement"
+    ]
+  },
+  {
+    "number": 76,
+    "title": "The Dawn Patrol Principles",
+    "description": "Early morning paddle protocols:",
+    "list": [
+      "Coffee must be pre-prepared",
+      "Gear must be packed night before",
+      "No loud rigging noises",
+      "Minimal pre-launch conversation",
+      "Maximum sunrise appreciation"
+    ],
+    "note": "Reward: Having entire ocean to yourself"
+  },
+  {
+    "number": 77,
+    "title": "The Vessel Quiver Quotient",
+    "description": "Your fleet shall include:",
+    "list": [
+      "The Training Ski (stable & reliable)",
+      "The Race Ski (tippy & fast)",
+      "The Bad Conditions Ski (bombproof)",
+      "The 'Project' Ski (eternal restoration)",
+      "The Secret New Ski (hidden from partner)"
+    ],
+    "note": "All justified as 'essential equipment'"
+  },
+  {
+    "number": 78,
+    "title": "The Downwind Dictionary",
+    "description": "Conditions shall be properly described:",
+    "list": [
+      "'Cooking' = perfect downwind",
+      "'Victory at Sea' = survival conditions",
+      "'Glass' = time for technique work",
+      "'Duck Farts' = shamefully flat",
+      "'Liquid Himalayas' = time to call in sick"
+    ]
+  },
+  {
+    "number": 79,
+    "title": "The Sacred Shuttle Philosophy",
+    "description": "Car shuffle wisdom includes:",
+    "list": [
+      "Always have spare car key",
+      "Never trust shuttle timing estimates",
+      "Account for 'one more run' syndrome",
+      "Accept shuttle karma",
+      "Remember: The wind waits for no one"
+    ]
+  },
+  {
+    "number": 80,
+    "title": "The Time on Water Theory",
+    "description": "TOW (Time on Water) priorities:",
+    "list": [
+      "Supersedes social obligations",
+      "Trumps sleep requirements",
+      "Outranks work meetings",
+      "Dominates weekend plans",
+      "Equals happiness"
+    ],
+    "note": "Exception: Partner's birthday (maybe)"
+  },
+  {
+    "number": 81,
+    "title": "The Technical terminology Protocol",
+    "description": "Proper use of terms marks the true Aqualitor:",
+    "list": [
+      "'Broaching' not 'turning sideways'",
+      "'Pearl' not 'nose dive'",
+      "'Huli' not 'falling in'",
+      "'Technical' not 'terrifying'",
+      "'Challenging' not 'completely out of control'"
+    ],
+    "note": "Misuse of terms results in coffee shop penance"
+  },
+  {
+    "number": 82,
+    "title": "The Fetch Appreciation Doctrine",
+    "description": "Understanding fetch requires:",
+    "list": [
+      "Wind direction knowledge",
+      "Distance calculation",
+      "Geographical awareness",
+      "Historical perspective",
+      "Multiple weather model consultation"
+    ],
+    "note": "All to find the perfect run"
+  },
+  {
+    "number": 83,
+    "title": "The Universal Remount Laws",
+    "description": "Remount mastery includes:",
+    "list": [
+      "Side saddle with style",
+      "Cowboy with grace",
+      "Speed with dignity",
+      "Recovery with poise",
+      "Story with humor"
+    ],
+    "note": "Practice until muscle memory defeats panic"
+  },
+  {
+    "number": 84,
+    "title": "The Wave Priority Pyramid",
+    "description": "Wave rights hierarchy:",
+    "list": [
+      "1. Local legends",
+      "2. Visiting pros",
+      "3. Regular paddlers",
+      "4. Occasional paddlers",
+      "5. Those still practicing remounts"
+    ],
+    "note": "Exception: Everyone equal when rescue needed"
+  },
+  {
+    "number": 85,
+    "title": "The Sacred Recovery Ritual",
+    "description": "Post-epic paddle requirements:",
+    "list": [
+      "Immediate craft cleaning",
+      "Gear maintenance",
+      "Injury assessment",
+      "Story compilation",
+      "Coffee consumption"
+    ],
+    "note": "Recovery is preparation for next paddle"
+  },
+  {
+    "number": 86,
+    "title": "The Aqualiti Time Management System",
+    "description": "Priority scheduling shall be:",
+    "list": [
+      "1. Epic conditions (drop everything)",
+      "2. Regular paddle sessions (negotiable)",
+      "3. Work commitments (unfortunately necessary)",
+      "4. Social obligations (highly flexible)",
+      "5. Sleep (optional during good conditions)"
+    ]
+  },
+  {
+    "number": 87,
+    "title": "The Environmental Respect Code",
+    "description": "True Aqualiti leave no trace:",
+    "list": [
+      "Pack in, pack out",
+      "No gel wrappers in the ocean",
+      "Respect wildlife encounters",
+      "Clean up others' mistakes",
+      "Share environmental knowledge"
+    ],
+    "note": "The ocean is our temple"
+  },
+  {
+    "number": 88,
+    "title": "The Multi-Generation Protocol",
+    "description": "Knowledge transfer requirements:",
+    "list": [
+      "Welcome newcomers",
+      "Share safety wisdom",
+      "Maintain traditions",
+      "Tell true stories",
+      "Pass on The Rules"
+    ],
+    "note": "But let them learn some lessons themselves"
+  },
+  {
+    "number": 89,
+    "title": "The Paddling Partnership Principles",
+    "description": "Group paddle etiquette:",
+    "list": [
+      "Match pace appropriately",
+      "Share navigation duties",
+      "Take turn as wind block",
+      "Warn of approaching hazards",
+      "Support all swim recoveries"
+    ],
+    "note": "No paddler left behind (unless they're being difficult)"
+  },
+  {
+    "number": 90,
+    "title": "The Sacred Season Cycle",
+    "description": "Annual paddling calendar:",
+    "list": [
+      "Winter: Claim it's character building",
+      "Spring: Prepare for season",
+      "Summer: Maximize water time",
+      "Autumn: Chase final runs",
+      "Year-round: Check weather apps"
+    ]
+  },
+  {
+    "number": 91,
+    "title": "The Vehicle Dedication Decree",
+    "description": "Your paddle-mobile shall:",
+    "list": [
+      "Have permanent roof racks",
+      "Contain emergency paddle gear",
+      "House multiple weather accessories",
+      "Stock spare change for coffee",
+      "Never be fully cleaned of sand"
+    ],
+    "note": "Vehicle resale value is irrelevant"
+  },
+  {
+    "number": 92,
+    "title": "The Session Rating System",
+    "description": "Paddle sessions shall be rated by:",
+    "list": [
+      "Number of Lipps achieved",
+      "Quality of waves linked",
+      "Epic moments witnessed",
+      "Swims survived",
+      "Coffee quality consumed"
+    ],
+    "note": "Never by actual distance covered"
+  },
+  {
+    "number": 93,
+    "title": "The Aquatic Fashion Protocol",
+    "description": "Appropriate attire hierarchy:",
+    "list": [
+      "1. Technical gear that works",
+      "2. Technical gear that matches",
+      "3. Technical gear with team logos",
+      "4. Technical gear with race credentials",
+      "5. Whatever's still dry from yesterday"
+    ]
+  },
+  {
+    "number": 94,
+    "title": "The Wind Waiting Wisdom",
+    "description": "During wind holds:",
+    "list": [
+      "Check apps obsessively",
+      "Maintain craft readiness",
+      "Perfect weather theories",
+      "Practice knots unnecessarily",
+      "Tell increasingly elaborate past condition stories"
+    ],
+    "note": "The wind gods respect dedication"
+  },
+  {
+    "number": 95,
+    "title": "The Universal Paddler's Truth",
+    "description": "Accept these constants:",
+    "list": [
+      "Best conditions occur during meetings",
+      "Perfect waves happen when camera's flat",
+      "Epic runs occur with no witnesses",
+      "Gear fails before major events",
+      "Coffee machine breaks post-epic paddle"
+    ]
+  },
+  {
+    "number": 96,
+    "title": "The Legend Building Protocol",
+    "description": "Story enhancement guidelines:",
+    "list": [
+      "Wave height increases 10% per telling",
+      "Wind speed gains 5 knots per beer",
+      "Distance grows 1 nautical mile per week",
+      "Shark size doubles per month",
+      "Rescue heroics improve with age"
+    ],
+    "note": "But never outright lie - the ocean knows"
+  },
+  {
+    "number": 97,
+    "title": "The Sacred Calendar Covenant",
+    "description": "Annual events shall include:",
+    "list": [
+      "The Season Opening Ceremony",
+      "The Midwinter Madness Paddle",
+      "The Full Moon Night Run",
+      "The Dawn Patrol Classic",
+      "The Year-End Epic"
+    ],
+    "note": "All followed by mandatory coffee analysis"
+  },
+  {
+    "number": 98,
+    "title": "The Equipment Evolution Theory",
+    "description": "Acceptance of progression:",
+    "list": [
+      "Every ski was once perfect",
+      "Every paddle was once ideal",
+      "Every PFD was once comfortable",
+      "Every technique was once correct",
+      "Until the next upgrade arrives"
+    ]
+  },
+  {
+    "number": 99,
+    "title": "The Ultimate Condition Paradox",
+    "description": "Universal truths of conditions:",
+    "list": [
+      "Perfect when you're busy",
+      "Flat when you're free",
+      "Nuclear when you're injured",
+      "Epic when gear's broken",
+      "Ideal when you're interstate"
+    ]
+  },
+  {
+    "number": 100,
+    "title": "The Final Philosophy",
+    "description": "The true Aqualitor knows:",
+    "list": [
+      "The ocean always wins",
+      "The wind rarely cooperates",
+      "The forecast usually lies",
+      "The coffee never fails",
+      "The stoke never dies"
+    ],
+    "note": "This is The Way"
   }
 ]

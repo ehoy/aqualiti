@@ -35,7 +35,7 @@ const Header = ({ siteTitle }) => {
 
   return (
     <Box sx={{ flexGrow: 1, mb: 4 }}>
-      <AppBar position="static" color="primary">
+      <AppBar position="static" color="primary" sx={{ borderRadius: 0 }}>
         <Toolbar>
           <IconButton
             color="inherit"

@@ -9,7 +9,7 @@ import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
-import { ThemeProvider, CssBaseline, createTheme } from '@mui/material';
+import { ThemeProvider, CssBaseline, createTheme, Box, Typography, Container, Divider } from '@mui/material';
 import theme from './theme';
 
 const Layout = ({ children }) => {
@@ -36,16 +36,20 @@ const Layout = ({ children }) => {
           }}
         >
           <main>{children}</main>
-          <footer
-            style={{
-              marginTop: `var(--space-5)`,
-              fontSize: `var(--font-sm)`,
-            }}
-          >
-            © {new Date().getFullYear()} &middot; Built with
-            {` `}
-            <a href="https://www.gatsbyjs.com">Gatsby</a>
-          </footer>
+          <Box component="footer" sx={{ mt: 6, py: 4 }}>
+            <Container maxWidth="sm">
+              <Divider sx={{ mb: 3, bgcolor: 'primary.light', opacity: 0.3 }} />
+              <Box sx={{ textAlign: 'center', px: 2 }}>
+                <Typography variant="body2" sx={{ color: 'text.secondary', mb: 2 }}>
+                  © {new Date().getFullYear()} The Aqualiti &middot; 
+                  <em style={{ color: theme.palette.primary.main }}> In Ventus et Aqua Gloriam</em>
+                </Typography>
+                <Typography variant="caption" sx={{ display: 'block', mt: 1, color: 'text.secondary' }}>
+                  Remember: Your mind is your worst enemy in technical conditions 🌊
+                </Typography>
+              </Box>
+            </Container>
+          </Box>
         </div>
       </>
     </ThemeProvider>

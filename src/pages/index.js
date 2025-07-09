@@ -35,6 +35,9 @@ const IndexPage = () => {
           <Typography variant="h4" sx={{ mb: 2, color: 'primary.main', fontWeight: 600 }}>
            The Rules
           </Typography>
+          <Typography variant="body2" sx={{ mb: 2, color: 'text.secondary' }}>
+          Remember, fellow seekers of wave and wind, these Rules are not mere guidelines but the collected wisdom of countless swims, epic runs, and coffee shop debates. They have been tested in conditions from duck farts to liquid himalayas, proven in waters from the Cape to the Pacific, and refined over countless dawn patrols and downwind runs.
+          </Typography>
           <TextField
             fullWidth
             label="Search rules"
