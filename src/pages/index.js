@@ -28,7 +28,7 @@ const IndexPage = () => {
             The Aqualiti
           </Typography>
           <Typography variant="body1">
-            IN VENTUS ET AQQUA GLORIAM 
+            IN VENTUS ET AQUA GLORIAM 
           </Typography>
         </Paper>
         <Paper elevation={2} sx={{ mt: 4, p: { xs: 2, sm: 3 }, background: '#fff' }}>
